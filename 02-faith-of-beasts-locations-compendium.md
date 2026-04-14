@@ -11,7 +11,7 @@ Comprehensive catalog of every planet, world, system, region, and ship/vessel re
 ### 1. Anjiin
 
 - **Appearances**: Chapters 1-6 and throughout.
-- **Summary**: The human homeworld, primary setting of *The Mercy of Gods*. Home to roughly four and a half billion people before the Carryx invasion; fewer than four thousand were taken to the world-palace. Its night sky features the Carryx homeworld as a visible twin world. Its ecosystem and civilization were shattered by conquest, and characters repeatedly frame it as a home they cannot return to.
+- **Summary**: The human homeworld, primary setting of *The Mercy of Gods*. Home to roughly four and a half billion people before the Carryx invasion; fewer than four thousand were taken to the world-palace. In Anjiin's origin myth (quoted from *Myths of Origin*), a boy named Ke names the world for a bright "twin world" in the night sky "made when the Great Heron split the sky" — mythological, not astronomical, and not identified with the Carryx homeworld, which the text treats as a distant star ("one of the billions"). Anjiin's ecosystem and civilization were shattered by conquest, and characters repeatedly frame it as a home they cannot return to.
 - **Key quotes**:
   > "Except in one village at the foot of a great mountain, there was a boy whose name was Ke... the brightest light was not a star, but the twin world that was made when the Great Heron split the sky... he gave it a new name: Anjiin."
   >
@@ -78,6 +78,21 @@ Comprehensive catalog of every planet, world, system, region, and ship/vessel re
 
 ---
 
+### 7. Other Named Imperial Systems (mentioned only in briefings to the Sovran)
+
+The librarian's reports to the Sovran name several additional systems and territories as imperial-strategic data points. None is physically described or visited in this book, but they establish the scope of the Carryx empire and the active war with the deathless enemy:
+
+- **Caarlast** — system where a Void Dragon tender was inhabited by larvae but survived, and now claims insight into a new technique for deploying void tendrils.
+- **Horol-Sa** — planet(s) the deathless enemy was "forced from," containing extensive manufacturing structures whose loss the strategic half-minds believe will weaken enemy fleets in the coreward systems.
+- **Dakku** — planet(s) the deathless enemy was "forced from," paired with Horol-Sa in the same strategic brief.
+- **Sado** and **Herusant** — systems where "animal unrest" was "burned out" and the animal moieties selected new species to replace the lost populations.
+- **"The three hundred worlds of the spinward holdings"** — collectively named imperial territories, described as "quiescent."
+- **"The coreward systems"** — generic designation for the enemy fleet's operating region.
+
+> "A tender of the Void Dragons in Caarlast had been inhabited by larvae but not died... The planets that the deathless enemy had been forced from in Horol-Sa and Dakku had extensive manufacturing structures..."
+
+---
+
 ## Section II: Ships, Vessels, and Spacecraft
 
 ---
@@ -125,7 +140,7 @@ Comprehensive catalog of every planet, world, system, region, and ship/vessel re
 
 - **Type**: Mid-sized Carryx landers (generic; not individually named).
 - **Appearances**: Chapters 3, 9, 14-15.
-- **Summary**: Four to five Carryx landing ships arranged in a rough semicircle on the surface of World, forming the research base. About "a dozen or so stories high," bronze and black, with ramps to the bare soil — much smaller than the city-sized ships that conquered Anjiin. Serve as habitats and laboratories for the subject species deployed to World.
+- **Summary**: Five Carryx landing ships arranged in a rough semicircle on the surface of World, forming the research base — four already grounded when Jessyn's party arrives and a fifth dropping in shortly after ("as a fifth ship dropped through the air toward them... it only buzzed like a thousand angry beehives, settled on the earth, and went dark"). Referred to later simply as "the five ships that made up their little group." About "a dozen or so stories high," bronze and black, with ramps to the bare soil — much smaller than the city-sized ships that conquered Anjiin. Serve as habitats and laboratories for the subject species deployed to World.
 - **Key quote**:
   > "Four of the Carryx ships were on the ground in a rough semicircle. They weren't the city-vast ones that had come to conquer Anjiin. Each of them stood only a dozen or so stories high, bronze and black, with ramps that stretched down to the bare pale soil."
 
@@ -195,6 +210,7 @@ Comprehensive catalog of every planet, world, system, region, and ship/vessel re
 
 | Category | Count |
 |---|---|
-| Planets / worlds / systems | 6 (Anjiin, Carryx homeworld/world-palace, World, Jurupe system, Ashtin-Kah system, Estian Morok Starweb) |
+| Planets / worlds / systems (detailed) | 6 (Anjiin, Carryx homeworld/world-palace, World, Jurupe system, Ashtin-Kah system, Estian Morok Starweb) |
+| Planets / worlds / systems (briefing-only) | 5+ (Caarlast, Horol-Sa, Dakku, Sado, Herusant, plus the spinward holdings and coreward systems) |
 | Named regions on Anjiin | 10+ (Scholar's Common, Dyan, Irvian, Hibbrin, Hausen, Itzibahn Common, Maryangul, Abbasat, Lanasq, Astincol, Bar, Amreth) |
 | Ships / vessels / fleet entities | 10 (world-palace, third dactyl, Rickar's warship, Jessyn's transport, World landing craft, captured enemy command ship, evacuation pods, Saren-hund, enemy fleet, Void Dragon weapon systems) |
