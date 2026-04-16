@@ -172,15 +172,19 @@ treat the survivors' blister wounds afterward.
 
 ### The Deathless Enemy
 
-Also deploys projection fields — the opening attack and the Jurupe defensive
-barrage are theirs. The novella's horror sequence inside the abandoned
-command ship features a three-tentacled deathless-enemy remnant that *also*
-knows enough to seek hardened rooms during overspill:
+Also deploys projection fields — the opening trap attack at Ashtin-Kah
+("The enemy set a trap with projection fields") and the Jurupe defensive
+barrage are theirs. The novella's horror sequence inside the derelict
+command ship features a **three-legged** deathless-enemy remnant — a member
+of a "five-limbed" species with two limbs missing — that *also* knows enough
+to seek hardened rooms during overspill:
 
 > "It took the other safe room. It seems disoriented by its amputations, but
 > it knew what it meant when the overspill came. It still thinks, somehow."
 
-Vaudai classifies this as typical of "the army of the dead."
+Vaudai classifies this as typical of "the army of the dead" and explains
+that it had been sessile until "the ship regained power" from the proximity
+of its allied fleet.
 
 ### Rickar
 
@@ -192,14 +196,19 @@ Carryx are… Now I remember why I made myself forget."
 
 ### Campar and Ghati
 
-The human POV for overspill as a *tool*. Trapped in an evacuated Carryx
-command ship with Vaudai, hunted by a wounded deathless-enemy shape-shifter,
-Campar weaponizes the incoming overspill cycle itself: he lures the creature
+The human POV for overspill as a *tool*. Trapped aboard the derelict
+deathless-enemy command ship they were surveying with Vaudai — the ship
+whose original crew (human-like and "five-limbed" aliens) lies dead in its
+corridors — Campar is pursued by a reactivated enemy soldier: a blackened,
+"three-legged" remnant that Vaudai identifies as "the deathless enemy" and
+classifies as "the army of the dead." It was "sessile until the ship
+regained power" and reanimated when the battle reached them. Campar
+weaponizes the incoming overspill cycle itself: he lures the creature
 through unshielded corridors so the next wave will catch it in the open. It
 works — the enemy is unmade in the aurora, Campar is burned nearly to death,
-and he throws his Carryx sample case into the light as a final act of
-refusal. This is the single most extended *use* of overspill as a plot
-mechanism in the book.
+and he throws his Carryx sample case (the work he'd done "to earn the right
+to live") into the light where it, too, is unmade. This is the single most
+extended *use* of overspill as a plot mechanism in the book.
 
 ---
 
@@ -207,13 +216,16 @@ mechanism in the book.
 
 ### They define what "war" looks like in this universe
 
-Every battle in *The Faith of Beasts* is fought through fields, not bullets.
-Ships don't close — they project. Planets don't fall to invasion — they fall
-to a walking aurora. This gives Corey's war a specific, alien texture: it is
-long-range, nearly invisible until too late, and measured in propagation times
-of light-minutes. It also makes the war legible only through translation —
-humans can't see it directly, so Vaudai reading a tactical display becomes the
-only access point.
+Battles in *The Faith of Beasts* are dominated by field-projection exchanges,
+with kinetic and energy weapons playing a supporting role (Vaudai mentions
+"three thousand kinetic and energy weapons still in transit" alongside
+residual field effects). Ships don't close — they project. The Jurupe
+planetary target doesn't fall to invasion — it falls to a walking aurora.
+This gives Corey's war a specific, alien texture: it is long-range, nearly
+invisible until too late, and measured in propagation times of light-minutes
+to hours. It also makes the war legible only through translation — humans
+can't see most of it directly, so Vaudai reading a tactical display becomes
+the primary access point.
 
 ### They are the mechanism of the Jurupe genocide
 
@@ -242,10 +254,13 @@ last resort.
 ### They reveal the Budon's and Vaudai's purpose
 
 Both species are on the ship *because of* field projection. The Budon detect
-it; Vaudai analyzes it. Understanding what field projection is retroactively
-explains every cross-species detail of the Carryx's mixed-ecology warships — a
-Carryx ship is assembled around the problem of surviving and returning
-field-fire.
+incoming fields before anything else can ("a thousand times better than the
+best half-mind"); Vaudai analyzes patterns of field combat to feed Carryx
+doctrine. Understanding what field projection is retroactively explains why
+these particular species are embedded on a Carryx warship — surviving and
+analyzing field-fire is a core function the crew is assembled around, even
+if humans, Sinen, Rak-hund, and Soft Lothark serve other purposes in
+parallel.
 
 ### They set up Campar's sacrifice
 
