@@ -12,7 +12,7 @@ Carryx–deathless-enemy warfare: **field projection** (the weapon) and **oversp
 
 Field projection is the dominant form of interstellar warfare used by *both* the
 Carryx and the "deathless enemy." It is a weapon, a sensor footprint, and a
-signaling device all at once. Vaudai, the half-mind strategist, explains its
+signaling device all at once. Vaudai, the slug-like strategic analyst, explains its
 physics succinctly:
 
 > "Field weaponry propagates as would light or gravity. If we can see them, the
@@ -132,14 +132,21 @@ every overspill sequence in the novella is prefaced by Budon singing. They pay
 for it — two are killed in the first attack. Their placement on Carryx ships is
 explicitly about detecting field projection before it can be seen.
 
-### Vaudai (half-mind / "giant slug")
+### Vaudai ("giant slug" — analyst of violence)
 
-The Carryx's embedded analyst for patterns of violence. Vaudai is a
-slug-like being — "a vast, blue-gray mass of flesh roughly the size of a side
-of beef" — and functions as a half-mind. Its species is not named in the
-text; Rickar notes "It called itself Vaudai, but Rickar didn't know if that
-was its name or its species." It is *not* a Sinen (the goat/cuttlefish-like
-overseers who run moieties and field camps). Vaudai:
+The Carryx's embedded strategic analyst. Vaudai is a slug-like being —
+"a vast, blue-gray mass of flesh roughly the size of a side of beef." Its
+species is not named in the text; Rickar notes "It called itself Vaudai, but
+Rickar didn't know if that was its name or its species." It is *not* a Sinen
+(the goat/cuttlefish-like overseers who run moieties and field camps), nor is
+it itself a "half-mind" — in this novella "half-mind" refers to the
+translation/computational device worn on the body (or mounted in ships and
+weapons), not to a species. Vaudai *has* a half-mind through which it speaks
+("Vaudai's translation half-mind said"; "its half-mind spoke"; "the
+translation half-mind didn't recognize their interest until Campar reached
+out and touched the couch-sized slug thing on its side"). What Vaudai does
+tell us about its kind is functional: "The gift of my kind is to ponder the
+patterns of violence." Vaudai:
 
 - Names the phenomenon ("Overspill") and explains the physics to the humans.
 - Secretes a hard white resin to anchor itself to the deck during waves —
