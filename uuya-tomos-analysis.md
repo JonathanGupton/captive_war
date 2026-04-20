@@ -25,15 +25,10 @@ Uuya's pre-invasion credentials are given in pieces across the book:
 
 ## Physical Description
 
-Corey gives her two different registers of description depending on POV. Tonner, at first meeting, reads her as monastic:
+Tonner, at first meeting, reads her as monastic:
 
 > "The older woman with the thin face and the wreath of iron-gray hair standing out from her skull like the halo of some Serintist saint was Uuya Tomos."
 > — TFOB Ch 5
-
-A few pages later, with her talking, she's vulpine:
-
-> "The voice that took the other half of the conversation was higher and almost querulous, and the woman it belonged to was thin, pale, and vulpine. If a gray fox had been remade as a woman in her late thirties, it would have been the person who walked in with Dafyd Alkhor."
-> — TFOB Ch 6
 
 Dafyd, who gets her as an interlocutor, repeatedly registers scale against presence:
 
